@@ -1,0 +1,2 @@
+rootProject.name = "BinarCh4_Exercise1"
+include ':app'
